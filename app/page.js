@@ -13,6 +13,7 @@ import ParticlesBackground from "./Components/ParticlesBackground";
 import Slider from "./Components/PrinterSlider";
 import Banner from "./Components/Banner";
 import ContentSection from "./Components/ContentSection";
+import JivoChat from "./Jivochat";
 
 
 
@@ -31,6 +32,7 @@ export default function Home() {
   <Slider/>
   <Banner/>
   <ContentSection/>
+  <JivoChat/>
      
     </>
   );

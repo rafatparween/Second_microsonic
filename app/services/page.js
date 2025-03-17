@@ -8,6 +8,8 @@ import NavbarDusra from "../Components/NavbarDusra";
 import SupportOptions from "../Components/SupportOptions";
 import SupportPage from "../Components/SupportPage";
 import Wrapper from "../Components/Wrapper";
+import JivoChat from "../Jivochat";
+
 import PrinterSetup from "./content/PrinterSetup";
 
 
@@ -41,6 +43,9 @@ function Home() {
       <Digonode/>
       <Avoid/>
       <Wrapper/>
+
+      <JivoChat/>
+     
      
       
      
