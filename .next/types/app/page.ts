@@ -1,4 +1,4 @@
-// File: /home/navgurukul-pune/secon_microsonic/app/page.js
+// File: /home/navgurukul-pune/microsonic_dusra/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
