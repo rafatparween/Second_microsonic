@@ -25,7 +25,7 @@ const Navbar = () => {
                 About
               </a>
             </Link>
-            <Link legacyBehavior href="/HP-Printer-Support">
+            <Link legacyBehavior href="/services">
               <a className="text-lg text-white hover:text-blue-600 px-3 py-2 rounded-md transition duration-300">
                 Services
               </a>

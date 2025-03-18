@@ -1,3 +1,4 @@
 {
-  "/HP-Printer-Support/page": "app/HP-Printer-Support/page.js"
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js"
 }
